@@ -25,23 +25,23 @@ const frameworks = [
 const vendors: Record<Vendor, { name: string; logo: string }> = {
   Vanta: {
     name: 'Vanta',
-    logo: '/home/ddanntheman/compliance-selection/Images/MB-Vanta-001-Logo-2000x1125.jpg',
+    logo: 'Images/MB-Vanta-001-Logo-2000x1125.jpg',
   },
   SecureFrame: {
     name: 'SecureFrame',
-    logo: '/home/ddanntheman/compliance-selection/Images/OIP (2).jpeg',
+    logo: 'Images/OIP (2).jpeg',
   },
   Drata: {
     name: 'Drata',
-    logo: '/home/ddanntheman/compliance-selection/Images/About_Drata_Logo_Image_2x.jpg',
+    logo: 'Images/About_Drata_Logo_Image_2x.jpg',
   },
   ServiceNow: {
     name: 'ServiceNow',
-    logo: '/home/ddanntheman/compliance-selection/Images/NOW_BIG-ada03f01.png',
+    logo: 'Images/NOW_BIG-ada03f01.png',
   },
   AuditBoard: {
     name: 'AuditBoard',
-    logo: '/home/ddanntheman/compliance-selection/Images/AuditBoard-Press-Release-Logo-Blog.webp',
+    logo: 'Images/AuditBoard-Press-Release-Logo-Blog.webp',
   },
 };
 
