@@ -150,7 +150,7 @@ function App() {
             className="p-4 border rounded-lg hover:border-blue-500 transition-colors text-left"
           >
             <h3 className="font-semibold">One-time Certification</h3>
-            <p className="text-gray-600">Just need to check the box for now</p>
+            <p className="text-gray-600">Just need to check the box for now and waste</p>
           </button>
         </div>
       ),
