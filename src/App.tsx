@@ -26,23 +26,23 @@ const frameworks = [
 const vendors: Record<Vendor, { name: string; logo: string }> = {
   Vanta: {
     name: 'Vanta',
-    logo: 'https://movingbrands.com/wp-content/uploads/2023/09/MB-Vanta-001-Logo-2000x1125.jpg',
+    logo: '/home/ddanntheman/compliance-selection/Images/MB-Vanta-001-Logo-2000x1125.jpg',
   },
   SecureFrame: {
     name: 'SecureFrame',
-    logo: 'https://getlogovector.com/wp-content/uploads/2020/11/secureframe-logo-vector.png',
+    logo: '/home/ddanntheman/compliance-selection/Images/OIP (2).jpeg',
   },
   Drata: {
     name: 'Drata',
-    logo: 'https://dailyalts.com/wp-content/uploads/2022/12/About_Drata_Logo_Image_2x.jpg',
+    logo: '/home/ddanntheman/compliance-selection/Images/About_Drata_Logo_Image_2x.jpg',
   },
   ServiceNow: {
     name: 'ServiceNow',
-    logo: 'https://th.bing.com/th/id/R.a6b036ec917db7ddc38a36be03cbfe26?rik=flgVNuAPw4edZQ&pid=ImgRaw&r=0',
+    logo: '/home/ddanntheman/compliance-selection/Images/NOW_BIG-ada03f01.png',
   },
   AuditBoard: {
     name: 'AuditBoard',
-    logo: 'https://th.bing.com/th/id/R.dfa9ff38de0f1e62302d92e3f8d73e1e?rik=kj33oTevSAFdFw&riu=http%3a%2f%2fww1.prweb.com%2fprfiles%2f2018%2f10%2f16%2f15845858%2fAuditBoard-Logo+2x.png&ehk=PLl7LW4TWf0FiutMQbtCFX2ZOCh7tm8sQ5a0JbMgIj0%3d&risl=&pid=ImgRaw&r=0',
+    logo: '/home/ddanntheman/compliance-selection/Images/AuditBoard-Press-Release-Logo-Blog.webp',
   },
 };
 
