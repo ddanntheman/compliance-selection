@@ -1,6 +1,5 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import {
-  Building2,
   Users,
   DollarSign,
   CheckCircle2,
